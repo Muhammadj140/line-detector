@@ -1,5 +1,3 @@
-//Andrea Labra Orozco CS311 hw5 
-
 package main
 
 import (
