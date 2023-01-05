@@ -2,7 +2,7 @@
 
 An enhanced program to detect any lines, entered by the user, through multiple files in local machine. 
 
-| #imported packages|
+| imported packages|
 | ------ | 
 | bufio | 
 | fmt | 
